@@ -1,0 +1,1 @@
+This is the first foundations project. iT SHOULD demonstrate that i HAVE THEORETICALLY LEARNED ALL THE html things that have recently been fed to me. 
